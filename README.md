@@ -1,13 +1,13 @@
 # YouTube Download API and JavaFX Frontend
 
-This project provides an API built using **Spring Boot** to interact with **yt-dlp** for downloading YouTube videos, and a **JavaFX**-based frontend to allow users to interact with the backend through a user-friendly interface.
+This project provides an API built using **Spring Boot** to interact with **yt-dlp** for downloading YouTube videos, and a **React**-based frontend to allow users to interact with the backend through a user-friendly interface.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Disclaimer](#disclaimer)
 - [Installation](#installation)
   - [Backend (Spring Boot API)](#backend-spring-boot-api)
-  - [Frontend (JavaFX)](#frontend-javafx)
+  - [Frontend (React)](#frontend-react)
 - [Usage](#usage)
   - [API](#api)
   - [Frontend](#frontend)
@@ -23,8 +23,8 @@ The project consists of two main components:
    - A REST API to download videos from YouTube using the yt-dlp command-line tool.  
    - Supports single‑video MP3 conversion and playlist ZIP download endpoints.  
 
-2. **Frontend (JavaFX)**  
-   - A desktop application built with JavaFX.  
+2. **Frontend (React)**  
+   - A desktop application built with React.  
    - Provides an interface for users to input YouTube URLs, toggle between single‑video and playlist modes, and track download progress.
 
 ## Disclaimer
